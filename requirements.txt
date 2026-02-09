@@ -1,0 +1,4 @@
+streamlit
+google-genai
+st-annotated-text
+requests
